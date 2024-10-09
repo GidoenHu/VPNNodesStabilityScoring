@@ -1,0 +1,50 @@
+Server name,Ping [ms],Speed [Mbps]
+USA - Santa Clara,131,56.38
+USA - San Jose 2,142,52.51
+USA - Dallas 3,182,49.36
+USA - Los Angeles 2,143,48.12
+USA - Fremont 1,172,43.13
+USA - Ashburn 10G,193,39.06
+USA - Seattle 1,167,37.17
+USA - New York 1,222,36.36
+USA - Ashburn 10G-2,153,35.86
+USA - New York 10G-2,190,34.99
+USA - New York WL1,200,34.04
+USA - New York 2,208,30.35
+USA - Los Angeles 5,162,29.72
+USA - Kansas,203,29.57
+USA - Seattle 2,157,25.84
+USA - New York HK1,209,25.13
+USA - Mobile Optimized,144,24.92
+USA - Kansas,187,23.84
+USA - New York 3,206,21.59
+USA - New York 10G-1,202,17.24
+USA - Denver 1,160,10.88
+USA - Los Angeles A,,ERROR
+USA - Los Angeles 10G,,ERROR
+USA - Los Angeles 10GB,,ERROR
+USA - Los Angeles CG1,,ERROR
+USA - Fremont 2,,ERROR
+USA - Los Angeles,,ERROR
+USA - Denver 10G,,ERROR
+USA - Denver 2,,ERROR
+USA - Dallas 1,,ERROR
+USA - Dallas 2,,ERROR
+USA - Dallas 4,,ERROR
+USA - San Jose 1,,ERROR
+USA - Los Angeles 1,,ERROR
+USA - Los Angeles 3,,ERROR
+USA - Los Angeles 4,,ERROR
+USA - San Francisco,,ERROR
+USA - Portland,,ERROR
+USA - Bend,,ERROR
+USA - Salt Lake 1,,ERROR
+USA - Salt Lake 2,,ERROR
+USA - Phoenix 10G,,ERROR
+USA - Phoenix 1,,ERROR
+USA - Ogden,,ERROR
+USA - Phoenix 2,,ERROR
+USA - Phoenix 3,,ERROR
+USA - Washington,,ERROR
+USA - New York 4,131,ERROR
+USA - Boston,162,ERROR

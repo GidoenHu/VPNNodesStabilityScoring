@@ -1,0 +1,51 @@
+Server name,Ping [ms],Speed [Mbps]
+USA - San Jose 1,129,107.55
+USA - Dallas 4,136,69.61
+USA - Phoenix 3,187,61.96
+USA - Bend,166,46.96
+USA - Dallas 3,191,41.6
+USA - New York WL1,212,19.18
+USA - Ottoville,207,13.93
+USA - Portland,210,9.14
+USA - Boston,168,8.45
+USA - Los Angeles,163,5.93
+USA - Tampa,203,5.12
+USA - Los Angeles 4,170,4.39
+USA - Minneapolis,187,3.31
+USA - Salt Lake 2,195,1.21
+USA - Los Angeles A,,ERROR
+USA - Los Angeles 10G,,ERROR
+USA - Los Angeles 10GB,,ERROR
+USA - Los Angeles CG1,,ERROR
+USA - Fremont 2,,ERROR
+USA - Denver 10G,,ERROR
+USA - Denver 1,,ERROR
+USA - Denver 2,,ERROR
+USA - Dallas 1,,ERROR
+USA - Dallas 2,,ERROR
+USA - Fremont 1,,ERROR
+USA - Santa Clara,,ERROR
+USA - San Jose 2,,ERROR
+USA - Los Angeles 1,,ERROR
+USA - Los Angeles 2,,ERROR
+USA - Los Angeles 3,,ERROR
+USA - Los Angeles 5,,ERROR
+USA - Mobile Optimized,,ERROR
+USA - Seattle 1,,ERROR
+USA - Seattle 2,,ERROR
+USA - San Francisco,,ERROR
+USA - Salt Lake 1,,ERROR
+USA - Phoenix 10G,,ERROR
+USA - Phoenix 1,,ERROR
+USA - Ogden,,ERROR
+USA - Phoenix 2,,ERROR
+USA - Ashburn 10G,,ERROR
+USA - Ashburn 10G-2,,ERROR
+USA - Washington,,ERROR
+USA - New York 10G-1,,ERROR
+USA - New York 10G-2,,ERROR
+USA - New York 1,,ERROR
+USA - New York 2,,ERROR
+USA - New York 3,,ERROR
+USA - New York 4,,ERROR
+USA - New York HK1,,ERROR

@@ -1,0 +1,66 @@
+Server name,Ping [ms],Speed [Mbps]
+USA - Seattle 1,193,152.41
+USA - Minneapolis,203,118.03
+USA - Miami 10G,201,103.11
+USA - Miami 1,194,95.32
+USA - Ottoville,201,86.53
+USA - San Francisco,226,71.47
+USA - Los Angeles 2,161,66.94
+USA - Bend,179,56.66
+USA - New York 2,201,56.2
+USA - Dallas 3,175,55.95
+USA - Fremont 1,147,52.79
+USA - Ashburn 10G-2,133,51.5
+USA - Phoenix 3,160,46.22
+USA - Los Angeles 4,157,42.12
+USA - Chicago 10GB,184,41.52
+USA - Chicago 10G,170,39.32
+USA - Phoenix 1,216,36.8
+USA - Detroit,165,36.51
+USA - Washington,216,35.75
+USA - Tampa,140,35.51
+USA - Seattle 2,166,35.27
+USA - Los Angeles A,198,34.61
+USA - Santa Clara,209,32.6
+USA - Kansas,174,32.55
+USA - Portland,149,31.69
+USA - Los Angeles 10GB,215,30.5
+USA - New York 4,219,29.11
+USA - Denver 10G,197,27.63
+USA - Los Angeles CG1,149,27.49
+USA - Los Angeles 1,177,25.01
+USA - New York 1,203,23.55
+USA - New York HK1,259,22.5
+USA - Ogden,199,22.14
+USA - New York 10G-2,186,21.86
+USA - Kansas,301,21.83
+USA - St Louis,198,21.82
+USA - Salt Lake 2,194,21.51
+USA - Mobile Optimized,163,19.64
+USA - Los Angeles 3,158,19.35
+USA - Dallas 4,215,18.48
+USA - San Jose 1,210,17.31
+USA - Fremont 2,140,15.22
+USA - Denver 1,205,13.34
+USA - Dallas 1,177,12.79
+USA - Los Angeles,151,12.43
+USA - Denver 2,204,12.11
+USA - Chicago 1,231,11.86
+USA - Phoenix 10G,208,10.2
+USA - Dallas 2,207,8.1
+USA - New York 10G-1,209,7.01
+USA - Boston,180,6.52
+USA - New York 3,154,6.12
+USA - New York WL1,221,5.97
+USA - Los Angeles 5,169,4.92
+USA - Los Angeles 10G,196,3.69
+USA - Miami 2,197,3.16
+USA - Ashburn 10G,232,2.86
+USA - Salt Lake 1,167,2.39
+USA - Atlanta 10G,231,2.02
+USA - Phoenix 2,235,1.81
+USA - San Jose 2,193,1.28
+USA - Atlanta,237,1.25
+USA - Philadelphia,,ERROR
+USA - Chicago 2,,ERROR
+USA - Chicago 3,,ERROR
